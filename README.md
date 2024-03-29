@@ -2,6 +2,6 @@
 
 ## swhitten.github.io
 
-[This is a link](/test.html)
+[This is a link to the test page](/test.html)
 
 
